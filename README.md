@@ -6,9 +6,9 @@
 
 ![Cameotech's card name](https://cardivo.vercel.app/api?name=Cameotech&description=Hi,%20We%20Are%20a%20Technology%20Education%20from%20Indonesian.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/94277e1ed633ac3d43740.jpg?v=4&backgroundColor=%23ecf0f1&github=cameotech&twitter=cameotech_&pattern=leaf&colorPattern=%23eaeaea)
 
-![Metrics](https://metrics.lecoq.io/tegarsabila?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/cameotech?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
-<p align='center'><img src="https://komarev.com/ghpvc/?username=tegarsabila&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="tegarsabila" />
+<p align='center'><img src="https://komarev.com/ghpvc/?username=cameotech&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="cameotech" />
 
 <a href="https://api.daily.dev/get?r=tegarsabila"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 
