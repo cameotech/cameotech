@@ -12,12 +12,9 @@
 
 <a href="https://api.daily.dev/get?r=tegarsabila"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 
-<p align='center'><a href="https://api.daily.dev/get?r=tegarsabila"><img src="https://github.com/tegarsabila/tegarsabila/blob/main/devcard.svg?r=82s" width="150" alt"tegarsabila's Dev Card"/></a></p>
-
-
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=tegarsabila)
 
-:page_with_curl: I'm currently learning:
+:page_with_curl: We currently learning:
 - Python
 - Flask
 - PHP
@@ -25,13 +22,15 @@
 - HTML
 - CSS
 - Javascript
+- Bootstrap
 - JAVA
 - C++
+- Networking (Cisco & Mikrotik)
 
 # Details
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tegar Sabila</h1>
-<h3 align="center">I'm a student Software Developer from Indonesia.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, We are Cameotech</h1>
+<h3 align="center">We are a Technology Education Community from Indonesia.</h3>
 
 ## 🙋‍♂️ About Me
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
