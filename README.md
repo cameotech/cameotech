@@ -101,13 +101,12 @@ We are a computer science student who is passionate about writing code, solving 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-- <a href="https://fb.me/asahikimura.id"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Asahi Kimura-blue?style=flat-square&logo=facebook"></a>
-- <a href="https://www.instagram.com/tegarsabila.id/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Tegar Sabila-blue?style=flat-square&logo=instagram"></a>
-- <a href="mailto: tegarsabila11@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tegarsabila11@gmail.com-blue?style=flat-square&logo=gmail"></a>
+- <a href="https://fb.me/cameotech"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Cameotech-blue?style=flat-square&logo=facebook"></a>
+- <a href="mailto:cameotech.mail@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cameotech@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 <br/>
 
 ## ❤ Followers
 
-- Github: <a href="https://github.com/tegarsabila?tab=followers"><img src="https://img.shields.io/github/followers/tegarsabila?label=Followers&style=social" alt="GitHub Badge" /></a>
-- Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/asahikimura24_.svg?style=social)](https://twitter.com/asahikimura24_)
+- Github: <a href="https://github.com/cameotech?tab=followers"><img src="https://img.shields.io/github/followers/cameotech?label=Followers&style=social" alt="GitHub Badge" /></a>
+- Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/asahikimura24_.svg?style=social)](https://twitter.com/cameotech_)
