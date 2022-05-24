@@ -33,12 +33,12 @@
 <h3 align="center">We are a Technology Education Community from Indonesia.</h3>
 
 ## 🙋‍♂️ About Me
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+We are a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a CS student at SMK Komputer Indonesia.
 - 📚 I’m currently learning  backend web development using NodeJS, PHP and Sqlite and I learning Network Fundamental.
 - 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [WhatsApp](https://wa.me/6289516271322) or [Gmail](mailto:tegarsabila11@gmail.com)
+- 📫 How to reach me: [WhatsApp](https://wa.me/6289530639515) or [Gmail](mailto: cameotech.mail@gmail.com)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -72,16 +72,16 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 
 <p align="center">
-    <a href="https://github.com/tegarsabila/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tegar Sabila's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tegarsabila&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/cameotech/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Cameotech's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cameotech&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 
 ## 📊 My Github Stats
-<a href="https://github.com/tegarsabila">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tegarsabila&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegarsabila&theme=buefy&layout=compact" />
+<a href="https://github.com/cameotech">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cameotech&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameotech&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -93,7 +93,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 <br/>
 <br/>
 
-<a href="https://github.com/tegarsabila/github-readme-activity-graph"><img alt="Tegar Sabila's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tegarsabila&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/cameotech/github-readme-activity-graph"><img alt="Cameotech's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cameotech&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
